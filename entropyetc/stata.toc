@@ -2,4 +2,4 @@
 1
 2
 3
-p xtqreg Linear Quantile Mixed Models Use xtqreg With STATA 19
+p entropyetc Entropy and related measures for categories Use entropyetc and entropyetc2 With STATA 19
